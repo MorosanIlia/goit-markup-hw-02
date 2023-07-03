@@ -1,0 +1,16 @@
+:root {
+    --text-font-family: 'Roboto' ;
+
+}
+.main-navigation{
+
+}
+h1,
+h2,
+h3,{
+    font-family: var(--text-font-family);
+
+}
+ul {
+    list-style-type: none;
+}
