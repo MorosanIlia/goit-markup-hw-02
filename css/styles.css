@@ -13,18 +13,18 @@ h1,h2,h3 {
 
 }
 .hero-heading .service-button {
-    color:var( --heading-color)
+    color:var(--heading-color)
 }
 
 ul {
     list-style-type: none;
 }
 .global-header .main-navigation.mailto {
-    color:var( --section-color);
+    color:var(--section-color);
   }
   .global-header .main-navigation.mailto:hover
   .global-header .main-navigation.mailto:focus {
-    color:var(  --link-active-color);
+    color:var(--link-active-color);
   }
 .global-header .main-navigtion .mailto .phone-number a,
 .global-header .main-navigtion .mailto .phone-number a:visited
